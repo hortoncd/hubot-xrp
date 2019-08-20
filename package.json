@@ -1,0 +1,31 @@
+{
+  "name": "hubot-xrp",
+  "version": "0.0.1",
+  "author": "Chris Horton <hortoncd@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "ripple",
+    "xrp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "peerDependencies": {
+    "hubot": "^3.3.2"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coffeescript": "^2.4.1",
+    "hubot-test-helper": "^1.9.0",
+    "mocha": "^6.2.0",
+    "sinon": "^7.4.1",
+    "sinon-chai": "^3.3.0"
+  },
+  "main": "index.coffee"
+}
