@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# bootstrap environment
+source script/bootstrap
+
+#mocha --compilers coffee:coffeescript
+mocha --require coffeescript/register "test/**/*.coffee"
