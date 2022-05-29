@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Install npm via Homebrew for Macos
+if [ `uname` == "Darwin" ]; then
+  brew bundle
+fi
+
 # Make sure everything is development forever
 export NODE_ENV=development
 
