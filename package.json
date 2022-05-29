@@ -20,6 +20,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "async": "^2.6.4",
     "chai": "^4.2.0",
     "coffeescript": "^2.4.1",
     "hubot-test-helper": "^1.9.0",
