@@ -24,7 +24,7 @@
     "chai": "^4.2.0",
     "coffeescript": "^2.4.1",
     "hubot-test-helper": "^1.9.0",
-    "lodash": ">=4.17.21",
+    "lodash": ">=4.17.23",
     "minimist": ">=1.2.6",
     "mocha": ">11.1.0",
     "sinon": "^7.4.1",
